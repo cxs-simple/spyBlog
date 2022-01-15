@@ -1,0 +1,81 @@
+/* 全局样式表 */
+
+html, body, #app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.width-full {
+    width: 100%;
+}
+
+.height-full {
+    height: 100%;
+}
+
+.height-25-per {
+    height: 200px;
+}
+
+.marg-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.marg-bottom-50 {
+    margin-bottom: 50px;
+}
+
+.marg-left-0 {
+    margin-left: 0px;
+}
+
+.marg-left-10 {
+    margin-left: 10px;
+}
+
+.color-none {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.width-10-per {
+    width: 30%;
+}
+
+.pad-left-25 {
+    padding-left: 25px;
+}
+
+.pad-0 {
+    padding: 0px;
+}
+
+.block {
+    display: block;
+}
+
+.height-320 {
+    height: 320px;
+}
+
+.el-breadcrumb {
+    margin-bottom: 15px;
+}
+
+.el-card {
+    background-color: #6E6E6E;
+    border: 1px solid #6E6E6E;
+    color: #D8D8D8;
+}
+
+.el-table {
+    margin-top: 15px;
+}
+
+.el-pagination {
+    margin-top: 15px;
+}
+
+.el-tag + .el-tag {
+    margin-left: 15px;
+}
